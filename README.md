@@ -1,5 +1,5 @@
 # Thinkpad-T480s-Hackintosh
-Freshly made OpenCore EFI for the Thinkpad T480s
+OpenCore EFI for the Thinkpad T480s
 
 <img src="https://media.discordapp.net/attachments/883021214090686525/964658946600222790/IMG_20220416_003816.jpg?width=351&height=468">
 
