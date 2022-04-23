@@ -1,7 +1,7 @@
 # Thinkpad-T480s-Hackintosh
 OpenCore EFI for the Thinkpad T480s
 
-<img src="https://media.discordapp.net/attachments/883021214090686525/964658946600222790/IMG_20220416_003816.jpg?width=351&height=468">
+<img src="https://i.ibb.co/SsBnmxm/IMG-20220416-003816.jpg"
 
 ## Hardware configuration
 | Name                | Specifications | Funtional or not |
