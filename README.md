@@ -13,6 +13,9 @@
   </p>
 </p>
 
+
+
+
 # 📝 Basic information
 * Supported Mac OS versions : Ventura, Monterey, Big Sur, Catalina (tweaks needed, swap out the airportlwm kext)
 * Laptop runs very good but the power managment doesn't seem efficent enough (sometimes running too hot, high power usage.)
