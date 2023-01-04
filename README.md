@@ -3,6 +3,8 @@
 <img align="right" src="/screenshot.png" alt="macOS Ventura running on the T480s" width="425">
 
 <p align="center">
+    <br/>
+    <br/>
    <strong>Status: Maintained</strong>
    <br />
    <strong>Version: </strong>2.0
@@ -58,4 +60,36 @@ These are the Hardware components I use. But this OpenCore configuation <strong>
 * [USBMap](https://github.com/USBToolBox/kext) => Fix USB mapping
 * [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2/releases) => Fix Touchpad
 
+## Status
+
+<details>  
+<summary><strong>✅ What's working</strong></summary>
+</br>
+ 
+- [X] Intel WiFi & Bluetooth
+- [X] Brightness / Volume Control
+- [X] Battery Information
+- [X] Audio (Audio Jack & Speaker)
+- [X] USB Ports & Built-in Camera
+- [X] Graphics Acceleration
+- [X] Trackpoint / Touchpad
+- [X] Power management / Sleep
+- [X] FaceTime / iMessage (iServices)
+- [X] HDMI
+- [X] Automatic OS updates
+- [X] USB-C
+- [X] WWAN
+- [X] Dualbooting Windows / Linux (with OpenCore)
+
+</details>
+
+<details>  
+<summary><strong>⚠️ What's not working</strong></summary>
+</br>
+
+- [ ] Safari DRM
+- [ ] AirDrop & Continuity
+- [ ] Fingerprint Reader (Disabled in BIOS)
+
+</details>
 
