@@ -12,7 +12,7 @@
    <a href="https://github.com/expo1337/Thinkpad-T480s-Hackintosh/issues">Report a Bug</a>
   </p>
 </p>
-
+</br>
 
 
 
